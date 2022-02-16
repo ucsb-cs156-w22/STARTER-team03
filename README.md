@@ -79,7 +79,7 @@ To access the swagger API endpoints, use:
 
 # Accessing Database Console
 
-* On localhost only: <http://localhost:8080/h2-console>  See also: [docs/h2-console.md](docs/h2-console.md)
+* On localhost only: <http://localhost:8080/h2-console>  See also: [docs/h2-console.md](docs/h2-database.md)
 * On Heroku, with CLI:
   - Use: `heroku psql --app app-name-here` 
   - Note that this requires that you have the psql CLI tool installed on your system.  
